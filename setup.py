@@ -19,7 +19,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
         "Programming Language :: Python",
         "Natural Language :: Russian",
-        "Intended Audience :: Developer",
+        "Intended Audience :: Developers",
         "License :: Freely Distributable",
         "Topic :: Utilities",
     ],
